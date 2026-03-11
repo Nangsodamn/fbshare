@@ -1,5 +1,3 @@
-You're right! Let me update the documentation to clarify the web version only supports single cookie:
-
 # Facebook Share Booster 🚀
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
